@@ -1,0 +1,121 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{salomon1993}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=82a97bc4bed3324730334396d9a23682}{%
+           family={Salomon},
+           familyi={S\bibinitperiod},
+           given={Gavriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c15093d6697fd305713a9ea2c1f6524d}{%
+           family={Lajoie},
+           familyi={L\bibinitperiod},
+           given={Susanne\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=297adb8fd10ee17a1d65c8630863e645}{%
+           family={Derry},
+           familyi={D\bibinitperiod},
+           given={Sharon\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York, London: Routledge}%
+      }
+      \strng{namehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{fullhash}{82a97bc4bed3324730334396d9a23682}
+      \strng{bibnamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authorbibnamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authornamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authorfullhash}{82a97bc4bed3324730334396d9a23682}
+      \strng{editorbibnamehash}{8ac0432ff7066cb16adcbf0e28879539}
+      \strng{editornamehash}{8ac0432ff7066cb16adcbf0e28879539}
+      \strng{editorfullhash}{8ac0432ff7066cb16adcbf0e28879539}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computers as Cognitive Tools}
+      \field{title}{On the Nature of Pedagogic Computer Tools: The Case of the Writing Partner}
+      \field{year}{1993}
+      \field{pages}{179\bibrangedash 196}
+      \range{pages}{18}
+      \keyw{cognitivetools,rulesfortools,aislides}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{salomon1993}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=82a97bc4bed3324730334396d9a23682}{%
+           family={Salomon},
+           familyi={S\bibinitperiod},
+           given={Gavriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c15093d6697fd305713a9ea2c1f6524d}{%
+           family={Lajoie},
+           familyi={L\bibinitperiod},
+           given={Susanne\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=297adb8fd10ee17a1d65c8630863e645}{%
+           family={Derry},
+           familyi={D\bibinitperiod},
+           given={Sharon\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York, London: Routledge}%
+      }
+      \strng{namehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{fullhash}{82a97bc4bed3324730334396d9a23682}
+      \strng{bibnamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authorbibnamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authornamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authorfullhash}{82a97bc4bed3324730334396d9a23682}
+      \strng{editorbibnamehash}{8ac0432ff7066cb16adcbf0e28879539}
+      \strng{editornamehash}{8ac0432ff7066cb16adcbf0e28879539}
+      \strng{editorfullhash}{8ac0432ff7066cb16adcbf0e28879539}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computers as Cognitive Tools}
+      \field{title}{On the Nature of Pedagogic Computer Tools: The Case of the Writing Partner}
+      \field{year}{1993}
+      \field{pages}{179\bibrangedash 196}
+      \range{pages}{18}
+      \keyw{cognitivetools,rulesfortools,aislides}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

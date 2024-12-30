@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'rulesfortools.blg'
+[26] biber-darwin:340> INFO - === Mo Dez 30, 2024, 17:58:10
+[33] Biber.pm:419> INFO - Reading 'rulesfortools.bcf'
+[71] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[81] Biber.pm:4419> INFO - Processing section 0
+[86] Biber.pm:4610> INFO - Looking for bibtex file '../literature.bib' for section 0
+[87] bibtex.pm:1713> INFO - LaTeX decoding ...
+[88] bibtex.pm:1519> INFO - Found BibTeX data source '../literature.bib'
+[105] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[105] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[105] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[105] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[108] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[109] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[109] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[109] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[109] bbl.pm:660> INFO - Writing 'rulesfortools.bbl' with encoding 'UTF-8'
+[110] bbl.pm:763> INFO - Output to rulesfortools.bbl
