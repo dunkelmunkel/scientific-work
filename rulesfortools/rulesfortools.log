@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  30 DEC 2024 17:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  2 JAN 2025 22:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -698,7 +698,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
 \Hy@SectionHShift=\skip84
-))
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 50.
+)
 \@quotelevel=\count415
 \@quotereset=\count416
 LaTeX Font Info:    Trying to load font information for T1+Raleway-TLF on input
@@ -825,8 +827,19 @@ Package biblatex Info: ... file 'rulesfortools.bbl' found.
 (./rulesfortools.bbl)
 Package biblatex Info: Reference section=0 on input line 22.
 Package biblatex Info: Reference segment=0 on input line 22.
-Package hyperref Info: Link coloring OFF on input line 22.
- (./rulesfortools.out) (./rulesfortools.out)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 22.
+
+(./rulesfortools.out) (./rulesfortools.out)
 \@outlinefile=\write5
 \openout5 = `rulesfortools.out'.
 
@@ -846,38 +859,35 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 30.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 31.
-Package epstopdf Info: Source file: </Users/wombat/nextcloud/logos/phhd.eps>
+Package epstopdf Info: Source file: <../logos/phhd.eps>
 (epstopdf)                    date: 2024-12-29 23:40:30
 (epstopdf)                    size: 454411 bytes
-(epstopdf)             Output file: </Users/wombat/nextcloud/logos/phhd-eps-con
-verted-to.pdf>
+(epstopdf)             Output file: <../logos/phhd-eps-converted-to.pdf>
 (epstopdf)                    date: 2024-12-29 23:43:20
 (epstopdf)                    size: 27289 bytes
-(epstopdf)             Command: <repstopdf --outfile=/Users/wombat/nextcloud/lo
-gos/phhd-eps-converted-to.pdf /Users/wombat/nextcloud/logos/phhd.eps>
+(epstopdf)             Command: <repstopdf --outfile=../logos/phhd-eps-converte
+d-to.pdf ../logos/phhd.eps>
 (epstopdf)             \includegraphics on input line 37.
 Package epstopdf Info: Output file is already uptodate.
-</Users/wombat/nextcloud/logos/phhd-eps-converted-to.pdf, id=13, 243.91125pt x 
-103.38625pt>
-File: /Users/wombat/nextcloud/logos/phhd-eps-converted-to.pdf Graphic file (typ
-e pdf)
-<use /Users/wombat/nextcloud/logos/phhd-eps-converted-to.pdf>
-Package pdftex.def Info: /Users/wombat/nextcloud/logos/phhd-eps-converted-to.pd
-f  used on input line 37.
+<../logos/phhd-eps-converted-to.pdf, id=13, 243.91125pt x 103.38625pt>
+File: ../logos/phhd-eps-converted-to.pdf Graphic file (type pdf)
+<use ../logos/phhd-eps-converted-to.pdf>
+Package pdftex.def Info: ../logos/phhd-eps-converted-to.pdf  used on input line
+ 37.
 (pdftex.def)             Requested size: 100.68906pt x 42.67912pt.
  [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/
 local/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}
 
- </Users/wombat/nextcloud/logos/phhd-eps-converted-to.pdf>] [2]
-</Users/wombat/nextcloud/logos/cc-zero.png, id=42, 66.30275pt x 23.42697pt>
-File: /Users/wombat/nextcloud/logos/cc-zero.png Graphic file (type png)
-<use /Users/wombat/nextcloud/logos/cc-zero.png>
-Package pdftex.def Info: /Users/wombat/nextcloud/logos/cc-zero.png  used on inp
-ut line 54.
+ <../logos/phhd-eps-converted-to.pdf>] [2]
+<../logos/cc-zero.png, id=42, 66.30275pt x 23.42697pt>
+File: ../logos/cc-zero.png Graphic file (type png)
+<use ../logos/cc-zero.png>
+Package pdftex.def Info: ../logos/cc-zero.png  used on input line 54.
 (pdftex.def)             Requested size: 80.53004pt x 28.45274pt.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 5.0pt on input line 54.
- [3 </Users/wombat/nextcloud/logos/cc-zero.png>] (./rulesfortools.aux)
+
+[3 <../logos/cc-zero.png>] (./rulesfortools.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -889,10 +899,10 @@ Package logreq Info: Writing requests to 'rulesfortools.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18281 strings out of 474116
- 323869 string characters out of 5743682
+ 18356 strings out of 474116
+ 325020 string characters out of 5743682
  1942187 words of memory out of 5000000
- 40409 multiletter control sequences out of 15000+600000
+ 40477 multiletter control sequences out of 15000+600000
  667797 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,15n,101p,1140b,5182s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -901,7 +911,7 @@ d.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway
 -Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/R
 aleway-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmmi7.pfb>
-Output written on rulesfortools.pdf (3 pages, 115650 bytes).
+Output written on rulesfortools.pdf (3 pages, 115768 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
