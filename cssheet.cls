@@ -28,7 +28,7 @@
 
 \fancyhf{}
 \fancyhead[L]{Pädagogische Hochschule Heidelberg\\Prof. Dr. Christian Spannagel\\spannagel@ph-heidelberg.de}
-\fancyhead[R]{\includegraphics[height=15mm]{phhd.eps}}
+\fancyhead[R]{\thelogo}
 \fancyfoot[C]{Seite \thepage}
 \fancypagestyle{docstyle}{%
    \fancyhf{}
@@ -39,6 +39,16 @@
 \setlength{\parskip}{1 em} % fügt Leerzeile zwischen Absätzen ein
 \setlength{\parindent}{0 em}
 
+% hyperreferences
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+    
 % commands for metadata
 \author{Prof. Dr. Christian Spannagel}
 \date{\today}
@@ -61,12 +71,16 @@
 }
 }
 
+\newcommand{\thelogo}{\includegraphics[height=15mm]{phhd.eps}}
+\newcommand{\setlogo}[1]{\renewcommand{\thelogo}{#1}}
+
 % bibliography
 \bibliography{../literature.bib}
 %\bibliographystyle{plain}
 \nocite{*}
 %\defbibheading{references}[\refname]{\subsection{#1}
 %   \markboth{#1}{#1}}
+
 
 % title page
 \newcommand{\printtitle}{%
@@ -76,6 +90,12 @@
    {\LARGE\textbf{\thetitle}}
    \end{center}
 }
+\newcommand{\printsubtitle}{%
+   \begin{center}
+   {\Large\textbf{\thesubtitle}}
+   \end{center}
+}
+
 
 \newcommand{\printlicense}{%
   \includegraphics[height=10mm]{cc-zero.png}\\
