@@ -1,3 +1,13 @@
+%--------------------------------------------------------------------------------------------------------------
+%
+% cssheet.cls
+%
+% author: Christian Spannagel
+% version: 1.02
+% license: CC0
+%
+%--------------------------------------------------------------------------------------------------------------
+
 \ProvidesClass{cssheet}
 \PassOptionsToPackage{12pt,a4paper,oneside,ngerman}{article}
 \LoadClassWithOptions{article}
@@ -19,15 +29,14 @@
 \RequirePackage[singlespacing]{setspace}
 \RequirePackage[plainpages=false,pdfborder={0 0 0}]{hyperref}
 \newcommand{\inlinequote}[2]{\glqq{}#1\grqq{} #2}
-\graphicspath{{../logos/}}
-%--- END HEADER
+\graphicspath{{../../logos/}}
 
 %--------------------------------------------------------------------------------------------------------------
 % pagestyles
 %--------------------------------------------------------------------------------------------------------------
 
 \fancyhf{}
-\fancyhead[L]{Pädagogische Hochschule Heidelberg\\Prof. Dr. Christian Spannagel\\spannagel@ph-heidelberg.de}
+\fancyhead[L]{\theorganisation\\ \theauthor \\ \theemail}
 \fancyhead[R]{\thelogo}
 \fancyfoot[C]{Seite \thepage}
 \fancypagestyle{docstyle}{%
@@ -35,7 +44,6 @@
    \renewcommand{\headrulewidth}{0pt}
    \fancyfoot[C]{Seite \thepage}
 }
-
 \setlength{\parskip}{1 em} % fügt Leerzeile zwischen Absätzen ein
 \setlength{\parindent}{0 em}
 
@@ -58,10 +66,14 @@
 \newcommand{\setsubject}[1]{\renewcommand{\thesubject}{#1}}
 \newcommand{\theemail}{spannagel@ph-heidelberg.de}
 \newcommand{\setemail}[1]{\renewcommand{\theemail}{#1}}
+\newcommand{\theorganisation}{Pädagogische Hochschule Heidelberg}
+\newcommand{\setorganisation}[1]{\renewcommand{\theorganisation}{#1}}
 \newcommand{\theinstitution}{Institut für Mathematik und Informatik}
 \newcommand{\setinstitution}[1]{\renewcommand{\theinstitution}{#1}}
 \newcommand{\thesubtitle}{}
 \newcommand{\setsubtitle}[1]{\renewcommand{\thesubtitle}{#1}}
+\newcommand{\thelogo}{\includegraphics[height=15mm]{phhd.eps}}
+\newcommand{\setlogo}[1]{\renewcommand{\thelogo}{#1}}
 
 \newcommand{\setpdfmetadata}{%
     \hypersetup{pdfauthor={\theauthor},%
@@ -71,8 +83,6 @@
 }
 }
 
-\newcommand{\thelogo}{\includegraphics[height=15mm]{phhd.eps}}
-\newcommand{\setlogo}[1]{\renewcommand{\thelogo}{#1}}
 
 % bibliography
 \bibliography{../literature.bib}
@@ -96,7 +106,7 @@
    \end{center}
 }
 
-
+% footer elements
 \newcommand{\printlicense}{%
   \includegraphics[height=10mm]{cc-zero.png}\\
   \tiny{This document is subject to the Creative Commons Zero (CC0) License.\\ To create this document, we used \LaTeX{}.}
@@ -121,5 +131,4 @@ X/Twitter: \url{https://twitter.com/dunkelmunkel}\\
 Youtube: \url{https://www.youtube.com/pharithmetik}
 }
 
-\setlength{\parskip}{1 em} % fügt Leerzeile zwischen Absätzen ein
-\setlength{\parindent}{0 em}
+
