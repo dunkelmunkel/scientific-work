@@ -1,0 +1,1313 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{bogner2014}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
+           family={Bogner},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
+           family={Littig},
+           familyi={L\bibinitperiod},
+           given={Beate},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
+           family={Menz},
+           familyi={M\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: Springer VS}%
+      }
+      \strng{namehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
+      \strng{fullhash}{2cf39ae346a3e773370aba4b65c9b54b}
+      \strng{bibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
+      \strng{authorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
+      \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
+      \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Interviews mit Experten. Eine praxisorientierte Einführung}
+      \field{year}{2014}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{doering2016}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d9933e0ad5a94b2c60b8c92d9fe7f565}{%
+           family={Döring},
+           familyi={D\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02c7f3cc0b1173e1d9f7a743d66316b4}{%
+           family={Bortz},
+           familyi={B\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Berlin, Heidelberg: Springer}%
+      }
+      \strng{namehash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{fullhash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{bibnamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{authorbibnamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{authornamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{authorfullhash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5. Aufl.}
+      \field{title}{Forschungsmethoden und Evaluation in den Human- und Sozialwissenschaften}
+      \field{year}{2016}
+      \true{nocite}
+      \keyw{scientificmethods}
+    \endentry
+    \entry{euler2014b}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f2c915bc553005b94adae47d074d7230}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f2c915bc553005b94adae47d074d7230}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8e566ce340b75f6aee93eff0df3e0024}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelimb F.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Stuttgart: Franz Steiner Verlag}%
+      }
+      \strng{namehash}{f2c915bc553005b94adae47d074d7230}
+      \strng{fullhash}{f2c915bc553005b94adae47d074d7230}
+      \strng{bibnamehash}{f2c915bc553005b94adae47d074d7230}
+      \strng{authorbibnamehash}{f2c915bc553005b94adae47d074d7230}
+      \strng{authornamehash}{f2c915bc553005b94adae47d074d7230}
+      \strng{authorfullhash}{f2c915bc553005b94adae47d074d7230}
+      \strng{editorbibnamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editornamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editorfullhash}{1a2583dfd5cad76069b388b0297faadc}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Design-based Research}
+      \field{title}{Design Research -- a Paradigm under Development}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{15\bibrangedash 44}
+      \range{pages}{30}
+      \keyw{designresearch}
+    \endentry
+    \entry{euler2014}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=f2c915bc553005b94adae47d074d7230}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e566ce340b75f6aee93eff0df3e0024}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelimb F.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Stuttgart: Franz Steiner Verlag}%
+      }
+      \strng{namehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{fullhash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{bibnamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editorbibnamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editornamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editorfullhash}{1a2583dfd5cad76069b388b0297faadc}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Design-Based Research}
+      \field{year}{2014}
+      \true{nocite}
+      \keyw{designresearch}
+    \endentry
+    \entry{flick1995}{book}{}
+      \name{editor}{5}{}{%
+        {{un=0,uniquepart=base,hash=ff4d31eb4af9e10cb7799ced629912c7}{%
+           family={Flick},
+           familyi={F\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2643bf71dc9e23125913f843e7f5d547}{%
+           family={Kardorff},
+           familyi={K\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e4a303305ec3da5dd34e931aedcf2cd7}{%
+           family={Keupp},
+           familyi={K\bibinitperiod},
+           given={Heiner},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82d7134b47bb9c87f54cef3d4296f726}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91ce6ff178c285875d3e206127119cc1}{%
+           family={Rosenstiel},
+           familyi={R\bibinitperiod},
+           given={Lutz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim: Beltz}%
+      }
+      \strng{namehash}{a03702c7cb9d62cd824d0010bd6c034b}
+      \strng{fullhash}{b4d0c0e9234559d4adabdff125fd3974}
+      \strng{bibnamehash}{b4d0c0e9234559d4adabdff125fd3974}
+      \strng{editorbibnamehash}{b4d0c0e9234559d4adabdff125fd3974}
+      \strng{editornamehash}{a03702c7cb9d62cd824d0010bd6c034b}
+      \strng{editorfullhash}{b4d0c0e9234559d4adabdff125fd3974}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{2. Aufl.}
+      \field{title}{Handbuch Qualitative Sozialforschung. Grundlagen, Konzepte, Methoden und Anwendungen}
+      \field{year}{1995}
+      \true{nocite}
+      \keyw{scientificmethods}
+    \endentry
+    \entry{fuss2019}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=039418b28eb804b9dcf3764f504a3a36}{%
+           family={Fuß},
+           familyi={F\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e66fff9864c98d0fec1d26fd63583806}{%
+           family={Karbach},
+           familyi={K\bibinitperiod},
+           given={Ute},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Opladen, Toronto: Verlag Barbara Budrich}%
+      }
+      \strng{namehash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{fullhash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{bibnamehash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{authorbibnamehash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{authornamehash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{authorfullhash}{6536958dbae4dd0307cdae848ec338d1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2. Aufl.}
+      \field{title}{Grundlagen der Transkription. Eine praktische Einführung}
+      \field{year}{2019}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{helfferich2011}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e23850b3689535f2260861fba924f81}{%
+           family={Helfferich},
+           familyi={H\bibinitperiod},
+           given={Cornelia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{9e23850b3689535f2260861fba924f81}
+      \strng{fullhash}{9e23850b3689535f2260861fba924f81}
+      \strng{bibnamehash}{9e23850b3689535f2260861fba924f81}
+      \strng{authorbibnamehash}{9e23850b3689535f2260861fba924f81}
+      \strng{authornamehash}{9e23850b3689535f2260861fba924f81}
+      \strng{authorfullhash}{9e23850b3689535f2260861fba924f81}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4. Aufl.}
+      \field{title}{Die Qualität qualitativer Daten. Manual für die Durchführung qualitativer Interviews}
+      \field{year}{2011}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{kuckartz2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cad1e89ddc70eaab93437796a3429748}{%
+           family={Kuckartz},
+           familyi={K\bibinitperiod},
+           given={Udo},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim, Basel: Beltz Juventa}%
+      }
+      \strng{namehash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{fullhash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{bibnamehash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{authorbibnamehash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{authornamehash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{authorfullhash}{cad1e89ddc70eaab93437796a3429748}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4. Aufl.}
+      \field{title}{Qualitative Inhaltsanalyse: Methoden, Praxis, Computerunterstützung}
+      \field{year}{2018}
+      \true{nocite}
+      \keyw{qualanalysis}
+    \endentry
+    \entry{mayring2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=354e18c4014b84fb9bd1af1fc4d7371e}{%
+           family={Mayring},
+           familyi={M\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim, Basel: Beltz}%
+      }
+      \strng{namehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{fullhash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{bibnamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorbibnamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authornamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorfullhash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{12., überarb. Aufl.}
+      \field{title}{Qualitatitve Inhaltsanalyse: Grundlagen und Techniken}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{qualanalysis}
+    \endentry
+    \entry{plomp2013}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=d18a5e467fd94aea1fba4d6e4f22b02b}{%
+           family={Plomp},
+           familyi={P\bibinitperiod},
+           given={Tjeerd},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=447fb4440e39855ba0619af5631d988a}{%
+           family={Nieveen},
+           familyi={N\bibinitperiod},
+           given={Nienke},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Enschede: SLO -- Netherlands Institute for Curriculum Development}%
+      }
+      \strng{namehash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{fullhash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{bibnamehash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{editorbibnamehash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{editornamehash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{editorfullhash}{fd863778b556ba765851bc11903d9ae7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Educational Design Research. Part A: An Introduction}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://slo.nl/publish/pages/2904/educational-design-research-part-a.pdf
+      \endverb
+      \verb{url}
+      \verb https://slo.nl/publish/pages/2904/educational-design-research-part-a.pdf
+      \endverb
+      \keyw{designresearch}
+    \endentry
+    \entry{porst2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8ad9ed258e6de8c6c940f555c8ce0935}{%
+           family={Porst},
+           familyi={P\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: Springer Fachmedien}%
+      }
+      \strng{namehash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{fullhash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{bibnamehash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{authorbibnamehash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{authornamehash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{authorfullhash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fragebogen. Ein Arbeitsbuch (4. Aufl.)}
+      \field{year}{2013}
+      \true{nocite}
+      \keyw{quanti}
+    \endentry
+    \entry{reinmann2015}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f9ee6b625c16a23e4648b19ab721056}{%
+           family={Reinmann},
+           familyi={R\bibinitperiod},
+           given={Gabi},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{fullhash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{bibnamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authorbibnamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authornamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authorfullhash}{0f9ee6b625c16a23e4648b19ab721056}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reader zum Thema entwicklungsorientierte Bildungsforschung}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://gabi-reinmann.de/wp-content/uploads/2013/05/Reader_Entwicklungsforschung_Jan2015.pdf
+      \endverb
+      \verb{url}
+      \verb https://gabi-reinmann.de/wp-content/uploads/2013/05/Reader_Entwicklungsforschung_Jan2015.pdf
+      \endverb
+      \keyw{designresearch}
+    \endentry
+    \entry{reinmann2022}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f9ee6b625c16a23e4648b19ab721056}{%
+           family={Reinmann},
+           familyi={R\bibinitperiod},
+           given={Gabi},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=d4bd5c4ce1286dfe1870d1e6fe53393e}{%
+           family={Fahr},
+           familyi={F\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+        {{hash=d280b72274edd28544d5ce5f2d67d0e1}{%
+           family={Kenner},
+           familyi={K\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e97fb34f9b9f15583fcf113c3ef1a1ae}{%
+           family={Angenent},
+           familyi={A\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+        {{hash=bbf554b7e3a41e908915cb9b84e0e9ff}{%
+           family={Eßer-Lüghausen},
+           familyi={E\bibinithyphendelim L\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: Springer VS}%
+      }
+      \strng{namehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{fullhash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{bibnamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authorbibnamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authornamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authorfullhash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{editorbibnamehash}{717af0da6f777d35c464a650b0295214}
+      \strng{editornamehash}{e0b10f40d545893e15dc708718c20b6d}
+      \strng{editorfullhash}{717af0da6f777d35c464a650b0295214}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Hochschullehre erforschen. Innovative Impulse für das Scholarship of Teaching and Learning}
+      \field{title}{Lehre als Design -- Scholarship of Teaching and Learning mit Design-Based Research}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{29\bibrangedash 44}
+      \range{pages}{16}
+      \keyw{designresearch}
+    \endentry
+    \entry{salomon1993}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=82a97bc4bed3324730334396d9a23682}{%
+           family={Salomon},
+           familyi={S\bibinitperiod},
+           given={Gavriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c15093d6697fd305713a9ea2c1f6524d}{%
+           family={Lajoie},
+           familyi={L\bibinitperiod},
+           given={Susanne\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=297adb8fd10ee17a1d65c8630863e645}{%
+           family={Derry},
+           familyi={D\bibinitperiod},
+           given={Sharon\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York, London: Routledge}%
+      }
+      \strng{namehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{fullhash}{82a97bc4bed3324730334396d9a23682}
+      \strng{bibnamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authorbibnamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authornamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authorfullhash}{82a97bc4bed3324730334396d9a23682}
+      \strng{editorbibnamehash}{8ac0432ff7066cb16adcbf0e28879539}
+      \strng{editornamehash}{8ac0432ff7066cb16adcbf0e28879539}
+      \strng{editorfullhash}{8ac0432ff7066cb16adcbf0e28879539}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computers as Cognitive Tools}
+      \field{title}{On the Nature of Pedagogic Computer Tools: The Case of the Writing Partner}
+      \field{year}{1993}
+      \true{nocite}
+      \field{pages}{179\bibrangedash 196}
+      \range{pages}{18}
+      \keyw{rulesfortools}
+    \endentry
+    \entry{trautmann2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13d725bc7e1e8d1b93215d94ef38829f}{%
+           family={Trautmann},
+           familyi={T\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{fullhash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{bibnamehash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{authorbibnamehash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{authornamehash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{authorfullhash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Interviews mit Kindern. Grundlagen, Techniken, Besondernheiten, Beispiele}
+      \field{year}{2010}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{vandenakker2006}{book}{}
+      \name{editor}{4}{}{%
+        {{un=0,uniquepart=base,hash=c753883589fcdfab7a9ecb72cbb2a80b}{%
+           family={Akker},
+           familyi={A\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=64718f52d293b47ab4784db192741849}{%
+           family={Gravemeijer},
+           familyi={G\bibinitperiod},
+           given={Koeno},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf7dbcc857044ea19d881d4a41468722}{%
+           family={McKenney},
+           familyi={M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=447fb4440e39855ba0619af5631d988a}{%
+           family={Nieveen},
+           familyi={N\bibinitperiod},
+           given={Nienke},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {London, New York: Routledge}%
+      }
+      \strng{namehash}{1a2ee61b05b4a6ed7064165ec17267ab}
+      \strng{fullhash}{a639efeaf5e94841956c428bbcf78493}
+      \strng{bibnamehash}{a639efeaf5e94841956c428bbcf78493}
+      \strng{editorbibnamehash}{a639efeaf5e94841956c428bbcf78493}
+      \strng{editornamehash}{1a2ee61b05b4a6ed7064165ec17267ab}
+      \strng{editorfullhash}{a639efeaf5e94841956c428bbcf78493}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Educational Design Research}
+      \field{year}{2006}
+      \true{nocite}
+      \keyw{designresearch}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{bogner2014}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
+           family={Bogner},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
+           family={Littig},
+           familyi={L\bibinitperiod},
+           given={Beate},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
+           family={Menz},
+           familyi={M\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: Springer VS}%
+      }
+      \strng{namehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
+      \strng{fullhash}{2cf39ae346a3e773370aba4b65c9b54b}
+      \strng{bibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
+      \strng{authorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
+      \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
+      \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Interviews mit Experten. Eine praxisorientierte Einführung}
+      \field{year}{2014}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{doering2016}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d9933e0ad5a94b2c60b8c92d9fe7f565}{%
+           family={Döring},
+           familyi={D\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02c7f3cc0b1173e1d9f7a743d66316b4}{%
+           family={Bortz},
+           familyi={B\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Berlin, Heidelberg: Springer}%
+      }
+      \strng{namehash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{fullhash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{bibnamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{authorbibnamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{authornamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{authorfullhash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5. Aufl.}
+      \field{title}{Forschungsmethoden und Evaluation in den Human- und Sozialwissenschaften}
+      \field{year}{2016}
+      \true{nocite}
+      \keyw{scientificmethods}
+    \endentry
+    \entry{euler2014b}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f2c915bc553005b94adae47d074d7230}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f2c915bc553005b94adae47d074d7230}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8e566ce340b75f6aee93eff0df3e0024}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelimb F.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Stuttgart: Franz Steiner Verlag}%
+      }
+      \strng{namehash}{f2c915bc553005b94adae47d074d7230}
+      \strng{fullhash}{f2c915bc553005b94adae47d074d7230}
+      \strng{bibnamehash}{f2c915bc553005b94adae47d074d7230}
+      \strng{authorbibnamehash}{f2c915bc553005b94adae47d074d7230}
+      \strng{authornamehash}{f2c915bc553005b94adae47d074d7230}
+      \strng{authorfullhash}{f2c915bc553005b94adae47d074d7230}
+      \strng{editorbibnamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editornamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editorfullhash}{1a2583dfd5cad76069b388b0297faadc}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Design-based Research}
+      \field{title}{Design Research -- a Paradigm under Development}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{15\bibrangedash 44}
+      \range{pages}{30}
+      \keyw{designresearch}
+    \endentry
+    \entry{euler2014}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=f2c915bc553005b94adae47d074d7230}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e566ce340b75f6aee93eff0df3e0024}{%
+           family={Sloane},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelimb F.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Stuttgart: Franz Steiner Verlag}%
+      }
+      \strng{namehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{fullhash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{bibnamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editorbibnamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editornamehash}{1a2583dfd5cad76069b388b0297faadc}
+      \strng{editorfullhash}{1a2583dfd5cad76069b388b0297faadc}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Design-Based Research}
+      \field{year}{2014}
+      \true{nocite}
+      \keyw{designresearch}
+    \endentry
+    \entry{flick1995}{book}{}
+      \name{editor}{5}{}{%
+        {{un=0,uniquepart=base,hash=ff4d31eb4af9e10cb7799ced629912c7}{%
+           family={Flick},
+           familyi={F\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2643bf71dc9e23125913f843e7f5d547}{%
+           family={Kardorff},
+           familyi={K\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e4a303305ec3da5dd34e931aedcf2cd7}{%
+           family={Keupp},
+           familyi={K\bibinitperiod},
+           given={Heiner},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82d7134b47bb9c87f54cef3d4296f726}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91ce6ff178c285875d3e206127119cc1}{%
+           family={Rosenstiel},
+           familyi={R\bibinitperiod},
+           given={Lutz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim: Beltz}%
+      }
+      \strng{namehash}{a03702c7cb9d62cd824d0010bd6c034b}
+      \strng{fullhash}{b4d0c0e9234559d4adabdff125fd3974}
+      \strng{bibnamehash}{b4d0c0e9234559d4adabdff125fd3974}
+      \strng{editorbibnamehash}{b4d0c0e9234559d4adabdff125fd3974}
+      \strng{editornamehash}{a03702c7cb9d62cd824d0010bd6c034b}
+      \strng{editorfullhash}{b4d0c0e9234559d4adabdff125fd3974}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{2. Aufl.}
+      \field{title}{Handbuch Qualitative Sozialforschung. Grundlagen, Konzepte, Methoden und Anwendungen}
+      \field{year}{1995}
+      \true{nocite}
+      \keyw{scientificmethods}
+    \endentry
+    \entry{fuss2019}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=039418b28eb804b9dcf3764f504a3a36}{%
+           family={Fuß},
+           familyi={F\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e66fff9864c98d0fec1d26fd63583806}{%
+           family={Karbach},
+           familyi={K\bibinitperiod},
+           given={Ute},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Opladen, Toronto: Verlag Barbara Budrich}%
+      }
+      \strng{namehash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{fullhash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{bibnamehash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{authorbibnamehash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{authornamehash}{6536958dbae4dd0307cdae848ec338d1}
+      \strng{authorfullhash}{6536958dbae4dd0307cdae848ec338d1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2. Aufl.}
+      \field{title}{Grundlagen der Transkription. Eine praktische Einführung}
+      \field{year}{2019}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{helfferich2011}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e23850b3689535f2260861fba924f81}{%
+           family={Helfferich},
+           familyi={H\bibinitperiod},
+           given={Cornelia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{9e23850b3689535f2260861fba924f81}
+      \strng{fullhash}{9e23850b3689535f2260861fba924f81}
+      \strng{bibnamehash}{9e23850b3689535f2260861fba924f81}
+      \strng{authorbibnamehash}{9e23850b3689535f2260861fba924f81}
+      \strng{authornamehash}{9e23850b3689535f2260861fba924f81}
+      \strng{authorfullhash}{9e23850b3689535f2260861fba924f81}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4. Aufl.}
+      \field{title}{Die Qualität qualitativer Daten. Manual für die Durchführung qualitativer Interviews}
+      \field{year}{2011}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{kuckartz2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cad1e89ddc70eaab93437796a3429748}{%
+           family={Kuckartz},
+           familyi={K\bibinitperiod},
+           given={Udo},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim, Basel: Beltz Juventa}%
+      }
+      \strng{namehash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{fullhash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{bibnamehash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{authorbibnamehash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{authornamehash}{cad1e89ddc70eaab93437796a3429748}
+      \strng{authorfullhash}{cad1e89ddc70eaab93437796a3429748}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4. Aufl.}
+      \field{title}{Qualitative Inhaltsanalyse: Methoden, Praxis, Computerunterstützung}
+      \field{year}{2018}
+      \true{nocite}
+      \keyw{qualanalysis}
+    \endentry
+    \entry{mayring2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=354e18c4014b84fb9bd1af1fc4d7371e}{%
+           family={Mayring},
+           familyi={M\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim, Basel: Beltz}%
+      }
+      \strng{namehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{fullhash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{bibnamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorbibnamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authornamehash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \strng{authorfullhash}{354e18c4014b84fb9bd1af1fc4d7371e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{12., überarb. Aufl.}
+      \field{title}{Qualitatitve Inhaltsanalyse: Grundlagen und Techniken}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{qualanalysis}
+    \endentry
+    \entry{plomp2013}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=d18a5e467fd94aea1fba4d6e4f22b02b}{%
+           family={Plomp},
+           familyi={P\bibinitperiod},
+           given={Tjeerd},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=447fb4440e39855ba0619af5631d988a}{%
+           family={Nieveen},
+           familyi={N\bibinitperiod},
+           given={Nienke},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Enschede: SLO -- Netherlands Institute for Curriculum Development}%
+      }
+      \strng{namehash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{fullhash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{bibnamehash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{editorbibnamehash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{editornamehash}{fd863778b556ba765851bc11903d9ae7}
+      \strng{editorfullhash}{fd863778b556ba765851bc11903d9ae7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Educational Design Research. Part A: An Introduction}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://slo.nl/publish/pages/2904/educational-design-research-part-a.pdf
+      \endverb
+      \verb{url}
+      \verb https://slo.nl/publish/pages/2904/educational-design-research-part-a.pdf
+      \endverb
+      \keyw{designresearch}
+    \endentry
+    \entry{porst2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8ad9ed258e6de8c6c940f555c8ce0935}{%
+           family={Porst},
+           familyi={P\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: Springer Fachmedien}%
+      }
+      \strng{namehash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{fullhash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{bibnamehash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{authorbibnamehash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{authornamehash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \strng{authorfullhash}{8ad9ed258e6de8c6c940f555c8ce0935}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fragebogen. Ein Arbeitsbuch (4. Aufl.)}
+      \field{year}{2013}
+      \true{nocite}
+      \keyw{quanti}
+    \endentry
+    \entry{reinmann2015}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f9ee6b625c16a23e4648b19ab721056}{%
+           family={Reinmann},
+           familyi={R\bibinitperiod},
+           given={Gabi},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{fullhash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{bibnamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authorbibnamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authornamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authorfullhash}{0f9ee6b625c16a23e4648b19ab721056}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reader zum Thema entwicklungsorientierte Bildungsforschung}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://gabi-reinmann.de/wp-content/uploads/2013/05/Reader_Entwicklungsforschung_Jan2015.pdf
+      \endverb
+      \verb{url}
+      \verb https://gabi-reinmann.de/wp-content/uploads/2013/05/Reader_Entwicklungsforschung_Jan2015.pdf
+      \endverb
+      \keyw{designresearch}
+    \endentry
+    \entry{reinmann2022}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f9ee6b625c16a23e4648b19ab721056}{%
+           family={Reinmann},
+           familyi={R\bibinitperiod},
+           given={Gabi},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=d4bd5c4ce1286dfe1870d1e6fe53393e}{%
+           family={Fahr},
+           familyi={F\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+        {{hash=d280b72274edd28544d5ce5f2d67d0e1}{%
+           family={Kenner},
+           familyi={K\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e97fb34f9b9f15583fcf113c3ef1a1ae}{%
+           family={Angenent},
+           familyi={A\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+        {{hash=bbf554b7e3a41e908915cb9b84e0e9ff}{%
+           family={Eßer-Lüghausen},
+           familyi={E\bibinithyphendelim L\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: Springer VS}%
+      }
+      \strng{namehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{fullhash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{bibnamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authorbibnamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authornamehash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{authorfullhash}{0f9ee6b625c16a23e4648b19ab721056}
+      \strng{editorbibnamehash}{717af0da6f777d35c464a650b0295214}
+      \strng{editornamehash}{e0b10f40d545893e15dc708718c20b6d}
+      \strng{editorfullhash}{717af0da6f777d35c464a650b0295214}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Hochschullehre erforschen. Innovative Impulse für das Scholarship of Teaching and Learning}
+      \field{title}{Lehre als Design -- Scholarship of Teaching and Learning mit Design-Based Research}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{29\bibrangedash 44}
+      \range{pages}{16}
+      \keyw{designresearch}
+    \endentry
+    \entry{salomon1993}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=82a97bc4bed3324730334396d9a23682}{%
+           family={Salomon},
+           familyi={S\bibinitperiod},
+           given={Gavriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c15093d6697fd305713a9ea2c1f6524d}{%
+           family={Lajoie},
+           familyi={L\bibinitperiod},
+           given={Susanne\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=297adb8fd10ee17a1d65c8630863e645}{%
+           family={Derry},
+           familyi={D\bibinitperiod},
+           given={Sharon\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York, London: Routledge}%
+      }
+      \strng{namehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{fullhash}{82a97bc4bed3324730334396d9a23682}
+      \strng{bibnamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authorbibnamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authornamehash}{82a97bc4bed3324730334396d9a23682}
+      \strng{authorfullhash}{82a97bc4bed3324730334396d9a23682}
+      \strng{editorbibnamehash}{8ac0432ff7066cb16adcbf0e28879539}
+      \strng{editornamehash}{8ac0432ff7066cb16adcbf0e28879539}
+      \strng{editorfullhash}{8ac0432ff7066cb16adcbf0e28879539}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computers as Cognitive Tools}
+      \field{title}{On the Nature of Pedagogic Computer Tools: The Case of the Writing Partner}
+      \field{year}{1993}
+      \true{nocite}
+      \field{pages}{179\bibrangedash 196}
+      \range{pages}{18}
+      \keyw{rulesfortools}
+    \endentry
+    \entry{trautmann2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13d725bc7e1e8d1b93215d94ef38829f}{%
+           family={Trautmann},
+           familyi={T\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{fullhash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{bibnamehash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{authorbibnamehash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{authornamehash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \strng{authorfullhash}{13d725bc7e1e8d1b93215d94ef38829f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Interviews mit Kindern. Grundlagen, Techniken, Besondernheiten, Beispiele}
+      \field{year}{2010}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{vandenakker2006}{book}{}
+      \name{editor}{4}{}{%
+        {{un=0,uniquepart=base,hash=c753883589fcdfab7a9ecb72cbb2a80b}{%
+           family={Akker},
+           familyi={A\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=64718f52d293b47ab4784db192741849}{%
+           family={Gravemeijer},
+           familyi={G\bibinitperiod},
+           given={Koeno},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf7dbcc857044ea19d881d4a41468722}{%
+           family={McKenney},
+           familyi={M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=447fb4440e39855ba0619af5631d988a}{%
+           family={Nieveen},
+           familyi={N\bibinitperiod},
+           given={Nienke},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {London, New York: Routledge}%
+      }
+      \strng{namehash}{1a2ee61b05b4a6ed7064165ec17267ab}
+      \strng{fullhash}{a639efeaf5e94841956c428bbcf78493}
+      \strng{bibnamehash}{a639efeaf5e94841956c428bbcf78493}
+      \strng{editorbibnamehash}{a639efeaf5e94841956c428bbcf78493}
+      \strng{editornamehash}{1a2ee61b05b4a6ed7064165ec17267ab}
+      \strng{editorfullhash}{a639efeaf5e94841956c428bbcf78493}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Educational Design Research}
+      \field{year}{2006}
+      \true{nocite}
+      \keyw{designresearch}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

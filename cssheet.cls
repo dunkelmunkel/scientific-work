@@ -3,7 +3,7 @@
 % cssheet.cls
 %
 % author: Christian Spannagel
-% version: 1.02
+% version: 1.03
 % license: CC0
 %
 %--------------------------------------------------------------------------------------------------------------
@@ -105,6 +105,11 @@
    {\Large\textbf{\thesubtitle}}
    \end{center}
 }
+\newcommand{\printdate}{%
+    \begin{center}
+   \thedate
+   \end{center}
+}
 
 % footer elements
 \newcommand{\printlicense}{%
@@ -118,6 +123,7 @@ BeReal: \url{https://bere.al/cspannagel}\\
 Bluesky: \url{https://bsky.app/profile/cspannagel.bsky.social}\\
 Discord: \url{https://tinyurl.com/chrisp-discord}\\
 Facebook: \url{https://www.facebook.com/chr.spannagel}\\
+GitHub:  \url{https://github.com/dunkelmunkel}\\
 Instagram: \url{https://www.instagram.com/dunkelmunkel/}\\
 LinkedIn: \url{https://www.linkedin.com/in/christian-spannagel-31b7b4a1/}\\
 Mastodon: \url{https://scholar.social/@cspannagel}\\

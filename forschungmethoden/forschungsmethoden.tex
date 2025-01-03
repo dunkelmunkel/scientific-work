@@ -1,0 +1,51 @@
+\documentclass{../cssheet}
+
+%--------------------------------------------------------------------------------------------------------------
+% Basic meta data
+%--------------------------------------------------------------------------------------------------------------
+
+\title{Hinweise zu Forschungsmethoden}
+\author{Prof. Dr. Christian Spannagel}
+\date{\today}
+\hypersetup{%
+    pdfauthor={\theauthor},%
+    pdftitle={\thetitle},%
+    pdfsubject={Hinweise zu Forschungsmethoden},%
+    pdfkeywords={literatur, artikel, publikationen, forschungsmethoden, methoden}
+}
+
+%\bibliographystyle{plain}
+\nocite{*}
+\defbibheading{references}[\refname]{\subsection{#1}
+   \markboth{#1}{#1}}
+   
+   
+%--------------------------------------------------------------------------------------------------------------
+% document
+%--------------------------------------------------------------------------------------------------------------
+
+\begin{document}
+\printtitle
+\printdate
+\singlespacing
+
+
+\section{Grundlegende Hinweise}
+\begin{itemize}
+\item Die Servicestelle Forschungsmethoden der PH Heidelberg hat einen Moodle-Kurs zu Forschungsmethoden erstellt. Jede:r mit einem PH-Account kann sich direkt einschreiben: \url{https://moodle.ph-heidelberg.de/course/view.php?id=649}
+\end{itemize}
+
+\section{Literatur}
+\printbibliography[keyword=scientificmethods,heading=references,title=Forschungsmethodik allgemein] 
+\printbibliography[keyword=designresearch,heading=references,title=Design Research]
+\printbibliography[keyword=qualanalysis,heading=references,title=Qualitative Inhaltsanalyse]
+\printbibliography[keyword=quanti,heading=references,title=Quantitative Methoden]
+\printbibliography[keyword=interview,heading=references,title=Interviews] 
+\pagestyle{docstyle}
+
+\vspace*{5mm}
+\printlicense
+
+\printsocials
+\end{document}
+

@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Vorwort}{1}{section.1}%
+\contentsline {section}{\numberline {2}www-Suchmaschinen}{1}{section.2}%
+\contentsline {section}{\numberline {3}Fachspezifische Literaturdatenbanken}{2}{section.3}%
+\contentsline {section}{\numberline {4}Fachzeitschriften}{2}{section.4}%
+\contentsline {section}{\numberline {5}Weitere Tipps}{3}{section.5}%
