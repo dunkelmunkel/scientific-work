@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  3 JAN 2025 23:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  13 FEB 2025 23:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -902,47 +902,40 @@ LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 238.
 
 [5{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}]
-[6] [7] [8]
+[6] [7]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 507.
+(Font)              <7> on input line 495.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 507.
- [9]
+(Font)              <5> on input line 495.
+ [8]
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 566.
+(Font)              scaled to size 7.0pt on input line 554.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 566.
+(Font)              scaled to size 8.0pt on input line 554.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 566.
+(Font)              <8> on input line 554.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 566.
+(Font)              <6> on input line 554.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 566.
+(Font)              scaled to size 6.0pt on input line 554.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 566.
+(Font)              scaled to size 8.0pt on input line 554.
 
-Underfull \hbox (badness 10000) in paragraph at lines 566--566
+Underfull \hbox (badness 10000) in paragraph at lines 554--554
 [][][]\T1/Raleway-TLF/m/n/8 Christian Span-na-gel (2010). \T1/Raleway-TLF/m/it/
 8 Wi-ki-pe-dia als Quel-le?\T1/Raleway-TLF/m/n/8 . [][]$http : / / cspannagel .
  wordpress . com / 2010 / 01 / 31 /
  []
 
-[10] [11]
-Overfull \hbox (77.42517pt too wide) in paragraph at lines 706--709
-\T1/Raleway-TLF/m/n/10 Spannagel, C. (2010). Wi-ki-pe-dia als Quel-le? [][]$htt
-p : / / cspannagel . wordpress . com / 2010 / 01 / 31 / wikipedia-[]als-[]quell
-e-[]2/$[][]
- []
-
-[12]
-<../../logos/cc-zero.png, id=163, 66.30275pt x 23.42697pt>
+[9] [10] [11]
+<../../logos/cc-zero.png, id=195, 66.30275pt x 23.42697pt>
 File: ../../logos/cc-zero.png Graphic file (type png)
 <use ../../logos/cc-zero.png>
-Package pdftex.def Info: ../../logos/cc-zero.png  used on input line 782.
+Package pdftex.def Info: ../../logos/cc-zero.png  used on input line 687.
 (pdftex.def)             Requested size: 80.53004pt x 28.45274pt.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 782.
- [13] [14 <../../logos/cc-zero.png>] (./wiss-schreiben.aux)
+(Font)              scaled to size 5.0pt on input line 687.
+ [12 <../../logos/cc-zero.png>] (./wiss-schreiben.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -952,7 +945,7 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `wiss-schreiben.out' has not changed.
-(rerunfilecheck)             Checksum: B2451D82510ED91AAB4892C205BD22C2;1134.
+(rerunfilecheck)             Checksum: D3B8C0C10B86B2688D12FF9D2EC73B97;1154.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                wiss-schreiben
@@ -963,9 +956,9 @@ Package logreq Info: Writing requests to 'wiss-schreiben.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18273 strings out of 474116
- 322861 string characters out of 5743682
- 1941187 words of memory out of 5000000
+ 18265 strings out of 474116
+ 322781 string characters out of 5743682
+ 1945187 words of memory out of 5000000
  40325 multiletter control sequences out of 15000+600000
  725667 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -974,10 +967,10 @@ Here is how much of TeX's memory you used:
 d.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway
 -Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/R
 aleway-Regular.pfb>
-Output written on wiss-schreiben.pdf (14 pages, 143946 bytes).
+Output written on wiss-schreiben.pdf (12 pages, 140003 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
- 201 compressed objects within 3 object streams
- 70 named destinations out of 1000 (max. 500000)
+ 254 PDF objects out of 1000 (max. 8388607)
+ 226 compressed objects within 3 object streams
+ 62 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
