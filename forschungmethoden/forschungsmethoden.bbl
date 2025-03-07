@@ -565,6 +565,48 @@
       \range{pages}{16}
       \keyw{designresearch}
     \endentry
+    \entry{reinmann2024}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0f9ee6b625c16a23e4648b19ab721056}{%
+           family={Reinmann},
+           familyi={R\bibinitperiod},
+           given={Gabi},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cde9fcce64736b414126efdf39fba25}{%
+           family={Herzberg},
+           familyi={H\bibinitperiod},
+           given={Dominikus},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=441f11f2032c2a273b11548ffcc4bd0c}{%
+           family={Brase},
+           familyi={B\bibinitperiod},
+           given={Alexa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Bielefeld: transcript}%
+      }
+      \strng{namehash}{c67ebab2b32693daf0d36116cc8333f8}
+      \strng{fullhash}{9c95952b7f5743c4fcbfa188bd77067f}
+      \strng{bibnamehash}{9c95952b7f5743c4fcbfa188bd77067f}
+      \strng{authorbibnamehash}{9c95952b7f5743c4fcbfa188bd77067f}
+      \strng{authornamehash}{c67ebab2b32693daf0d36116cc8333f8}
+      \strng{authorfullhash}{9c95952b7f5743c4fcbfa188bd77067f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Forschendes Entwerfen. Design-Based Research in der Hochschuldidaktik}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{designresearch}
+    \endentry
     \entry{salomon1993}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=82a97bc4bed3324730334396d9a23682}{%
@@ -1239,6 +1281,48 @@
       \true{nocite}
       \field{pages}{29\bibrangedash 44}
       \range{pages}{16}
+      \keyw{designresearch}
+    \endentry
+    \entry{reinmann2024}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0f9ee6b625c16a23e4648b19ab721056}{%
+           family={Reinmann},
+           familyi={R\bibinitperiod},
+           given={Gabi},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cde9fcce64736b414126efdf39fba25}{%
+           family={Herzberg},
+           familyi={H\bibinitperiod},
+           given={Dominikus},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=441f11f2032c2a273b11548ffcc4bd0c}{%
+           family={Brase},
+           familyi={B\bibinitperiod},
+           given={Alexa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Bielefeld: transcript}%
+      }
+      \strng{namehash}{c67ebab2b32693daf0d36116cc8333f8}
+      \strng{fullhash}{9c95952b7f5743c4fcbfa188bd77067f}
+      \strng{bibnamehash}{9c95952b7f5743c4fcbfa188bd77067f}
+      \strng{authorbibnamehash}{9c95952b7f5743c4fcbfa188bd77067f}
+      \strng{authornamehash}{c67ebab2b32693daf0d36116cc8333f8}
+      \strng{authorfullhash}{9c95952b7f5743c4fcbfa188bd77067f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Forschendes Entwerfen. Design-Based Research in der Hochschuldidaktik}
+      \field{year}{2024}
+      \true{nocite}
       \keyw{designresearch}
     \endentry
     \entry{salomon1993}{inbook}{}

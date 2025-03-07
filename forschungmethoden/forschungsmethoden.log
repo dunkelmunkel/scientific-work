@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  7 MAR 2025 22:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  7 MAR 2025 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -903,7 +903,7 @@ ocal/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc} <../.
 ./logos/phhd-eps-converted-to.pdf>]
-<../../logos/cc-zero.png, id=62, 66.30275pt x 23.42697pt>
+<../../logos/cc-zero.png, id=63, 66.30275pt x 23.42697pt>
 File: ../../logos/cc-zero.png Graphic file (type png)
 <use ../../logos/cc-zero.png>
 Package pdftex.def Info: ../../logos/cc-zero.png  used on input line 47.
@@ -922,10 +922,10 @@ Package logreq Info: Writing requests to 'forschungsmethoden.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18515 strings out of 474116
- 330275 string characters out of 5743682
- 1947187 words of memory out of 5000000
- 40622 multiletter control sequences out of 15000+600000
+ 18521 strings out of 474116
+ 330492 string characters out of 5743682
+ 1948187 words of memory out of 5000000
+ 40627 multiletter control sequences out of 15000+600000
  681688 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,15n,101p,691b,5182s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -933,10 +933,10 @@ Here is how much of TeX's memory you used:
 d.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway
 -Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/R
 aleway-Regular.pfb>
-Output written on forschungsmethoden.pdf (2 pages, 107588 bytes).
+Output written on forschungsmethoden.pdf (2 pages, 107765 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
  67 words of extra memory for PDF output out of 10000 (max. 10000000)
 
