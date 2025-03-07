@@ -61,30 +61,24 @@
       \true{nocite}
       \keyw{interview}
     \endentry
-    \entry{doering2016}{book}{}
-      \name{author}{2}{}{%
+    \entry{doering2023}{book}{}
+      \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d9933e0ad5a94b2c60b8c92d9fe7f565}{%
            family={Döring},
            familyi={D\bibinitperiod},
            given={Nicola},
            giveni={N\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=02c7f3cc0b1173e1d9f7a743d66316b4}{%
-           family={Bortz},
-           familyi={B\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Berlin, Heidelberg: Springer}%
       }
-      \strng{namehash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{fullhash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{bibnamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{authorbibnamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{authornamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{authorfullhash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{namehash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{fullhash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{bibnamehash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{authorbibnamehash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{authornamehash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{authorfullhash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -92,9 +86,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{5. Aufl.}
+      \field{edition}{6. Aufl.}
       \field{title}{Forschungsmethoden und Evaluation in den Human- und Sozialwissenschaften}
-      \field{year}{2016}
+      \field{year}{2023}
       \true{nocite}
       \keyw{scientificmethods}
     \endentry
@@ -273,6 +267,43 @@
       \field{edition}{2. Aufl.}
       \field{title}{Grundlagen der Transkription. Eine praktische Einführung}
       \field{year}{2019}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{glaeser2010}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aeb4a16d620f5a0f21f804bd5607c368}{%
+           family={Gläser},
+           familyi={G\bibinitperiod},
+           given={Jochen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1201f1d6b5df8dc5b56db49740fa047d}{%
+           family={Laudel},
+           familyi={L\bibinitperiod},
+           given={Grit},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{45800352f71891d7e568d36e33a315c0}
+      \strng{fullhash}{45800352f71891d7e568d36e33a315c0}
+      \strng{bibnamehash}{45800352f71891d7e568d36e33a315c0}
+      \strng{authorbibnamehash}{45800352f71891d7e568d36e33a315c0}
+      \strng{authornamehash}{45800352f71891d7e568d36e33a315c0}
+      \strng{authorfullhash}{45800352f71891d7e568d36e33a315c0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4. Aufl.}
+      \field{title}{Experteninterviews und qualitative Inhaltsanalyse}
+      \field{year}{2010}
       \true{nocite}
       \keyw{interview}
     \endentry
@@ -706,30 +737,24 @@
       \true{nocite}
       \keyw{interview}
     \endentry
-    \entry{doering2016}{book}{}
-      \name{author}{2}{}{%
+    \entry{doering2023}{book}{}
+      \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d9933e0ad5a94b2c60b8c92d9fe7f565}{%
            family={Döring},
            familyi={D\bibinitperiod},
            given={Nicola},
            giveni={N\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=02c7f3cc0b1173e1d9f7a743d66316b4}{%
-           family={Bortz},
-           familyi={B\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Berlin, Heidelberg: Springer}%
       }
-      \strng{namehash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{fullhash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{bibnamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{authorbibnamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{authornamehash}{a54fb21d2a6178a00abd8085e7cc55d5}
-      \strng{authorfullhash}{a54fb21d2a6178a00abd8085e7cc55d5}
+      \strng{namehash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{fullhash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{bibnamehash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{authorbibnamehash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{authornamehash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
+      \strng{authorfullhash}{d9933e0ad5a94b2c60b8c92d9fe7f565}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -737,9 +762,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{5. Aufl.}
+      \field{edition}{6. Aufl.}
       \field{title}{Forschungsmethoden und Evaluation in den Human- und Sozialwissenschaften}
-      \field{year}{2016}
+      \field{year}{2023}
       \true{nocite}
       \keyw{scientificmethods}
     \endentry
@@ -918,6 +943,43 @@
       \field{edition}{2. Aufl.}
       \field{title}{Grundlagen der Transkription. Eine praktische Einführung}
       \field{year}{2019}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{glaeser2010}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aeb4a16d620f5a0f21f804bd5607c368}{%
+           family={Gläser},
+           familyi={G\bibinitperiod},
+           given={Jochen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1201f1d6b5df8dc5b56db49740fa047d}{%
+           family={Laudel},
+           familyi={L\bibinitperiod},
+           given={Grit},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{45800352f71891d7e568d36e33a315c0}
+      \strng{fullhash}{45800352f71891d7e568d36e33a315c0}
+      \strng{bibnamehash}{45800352f71891d7e568d36e33a315c0}
+      \strng{authorbibnamehash}{45800352f71891d7e568d36e33a315c0}
+      \strng{authornamehash}{45800352f71891d7e568d36e33a315c0}
+      \strng{authorfullhash}{45800352f71891d7e568d36e33a315c0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4. Aufl.}
+      \field{title}{Experteninterviews und qualitative Inhaltsanalyse}
+      \field{year}{2010}
       \true{nocite}
       \keyw{interview}
     \endentry
