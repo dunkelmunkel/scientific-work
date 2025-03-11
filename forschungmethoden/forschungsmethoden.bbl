@@ -338,6 +338,36 @@
       \true{nocite}
       \keyw{interview}
     \endentry
+    \entry{kruse2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c89967f79f107ebba378a899e5941e9}{%
+           family={Kruse},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim, Basel: Beltz Juventa}%
+      }
+      \strng{namehash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{fullhash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{bibnamehash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{authorbibnamehash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{authornamehash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{authorfullhash}{5c89967f79f107ebba378a899e5941e9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qualitative Interviewforschung. Ein integrativer Ansatz}
+      \field{year}{2015}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
     \entry{kuckartz2018}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cad1e89ddc70eaab93437796a3429748}{%
@@ -1053,6 +1083,36 @@
       \field{edition}{4. Aufl.}
       \field{title}{Die Qualität qualitativer Daten. Manual für die Durchführung qualitativer Interviews}
       \field{year}{2011}
+      \true{nocite}
+      \keyw{interview}
+    \endentry
+    \entry{kruse2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c89967f79f107ebba378a899e5941e9}{%
+           family={Kruse},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim, Basel: Beltz Juventa}%
+      }
+      \strng{namehash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{fullhash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{bibnamehash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{authorbibnamehash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{authornamehash}{5c89967f79f107ebba378a899e5941e9}
+      \strng{authorfullhash}{5c89967f79f107ebba378a899e5941e9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qualitative Interviewforschung. Ein integrativer Ansatz}
+      \field{year}{2015}
       \true{nocite}
       \keyw{interview}
     \endentry
